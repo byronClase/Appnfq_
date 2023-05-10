@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Appnfq_1</string>
+    <string name="login_pic">login pic</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="url_login">http://nfq.duckdns.org/anas/nfqgest/api/</string>
+    <string name="user_anas">anas.el.bakkali@enfoque-si.com</string>
+    <string name="client_management">Management</string>
+    <string name="sales">Sales</string>
+    <string name="open_close_cash_register">Cash Register</string>
+    <string name="settings">Settings</string>
+    <string name="salida_de_provincias">SALIDA DE PROVINCIAS</string>
+    <string name="search_user">Search user</string>
+    <string name="search">Search</string>
+    <string name="new_user">New user</string>
+    <string name="delete">delete</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="new_information_user">Introduce la nueva información</string>
+    <string name="update_user">Actualizar información</string>
+</resources>

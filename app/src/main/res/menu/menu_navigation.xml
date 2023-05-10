@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_option_managment"
+        android:icon="@drawable/baseline_person_outline_24"
+        android:title="@string/client_management"
+        />
+    <item
+        android:id="@+id/menu_option_sales"
+        android:icon="@drawable/baseline_qr_code_scanner_24"
+        android:title="@string/sales" />
+    <item
+        android:id="@+id/menu_option_register"
+        android:icon="@drawable/baseline_point_of_sale_24"
+        android:title="@string/open_close_cash_register" />
+    <item
+        android:id="@+id/menu_option_settings"
+        android:icon="@drawable/baseline_settings_applications_24"
+        android:title="@string/settings" />
+
+</menu>
